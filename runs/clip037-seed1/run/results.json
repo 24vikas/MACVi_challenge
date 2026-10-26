@@ -1,0 +1,146 @@
+[
+  {
+    "key": "clip_005",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_007",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_008",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_009",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_012",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_016",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_018",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_020",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_025",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_028",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_037",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_038",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_046",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_050",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_052",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_053",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_057",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_059",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_064",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_066",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_072",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_077",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_080",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  },
+  {
+    "key": "clip_086",
+    "split": "val",
+    "status": "missing_prediction",
+    "drift_pct": null
+  }
+]

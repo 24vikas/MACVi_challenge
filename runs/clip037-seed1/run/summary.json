@@ -1,0 +1,13 @@
+{
+  "dataset_sha256": "c47aaf98bda2ff089e2eb9c734c103e7eda8a359e2454743f93aa35085e34124",
+  "expected": 24,
+  "scored": 0,
+  "unscored": 24,
+  "by_status": {
+    "missing_prediction": 24
+  },
+  "median_drift_pct_scored": null,
+  "mean_drift_pct_scored": null,
+  "unexpected_prediction_ids": [],
+  "score_scope": "Scored clips only; v0.1 has no official ranking/failure penalty."
+}

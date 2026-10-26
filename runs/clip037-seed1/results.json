@@ -1,0 +1,15 @@
+[
+  {
+    "key": "clip_037",
+    "split": "val",
+    "status": "scored",
+    "drift_pct": 39.830089,
+    "reference_points": 300,
+    "overlap_points": 299,
+    "temporal_coverage": 0.9966666666666667,
+    "max_prediction_gap_s": 0.3712,
+    "ate_m": 229.252436,
+    "sim3_scale": 0.5321575789158961,
+    "path_length_m": 3744.4602602442633
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "dataset_sha256": "c47aaf98bda2ff089e2eb9c734c103e7eda8a359e2454743f93aa35085e34124",
+  "expected": 1,
+  "scored": 1,
+  "unscored": 0,
+  "by_status": {
+    "scored": 1
+  },
+  "median_drift_pct_scored": 39.830089,
+  "mean_drift_pct_scored": 39.830089,
+  "unexpected_prediction_ids": [
+    "results",
+    "summary"
+  ],
+  "score_scope": "Scored clips only; v0.1 has no official ranking/failure penalty."
+}

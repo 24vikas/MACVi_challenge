@@ -1,0 +1,52 @@
+{
+  "dataset_sha256": "c47aaf98bda2ff089e2eb9c734c103e7eda8a359e2454743f93aa35085e34124",
+  "target_fps": 8.0,
+  "seed": 2,
+  "dpvo_buffer_size": null,
+  "dpvo": {
+    "dir": "/NTIRE2026/MACVI_Challenges/Maritime Visual Odometry/vikas/third_party/DPVO",
+    "revision": "unknown",
+    "checkpoint_sha256": "30d02dc2b88a321cf99aad8e4ea1152a44d791b5b65bf95ad036922819c0ff12",
+    "buffer_size": 4096,
+    "config": {
+      "BACKEND_THRESH": 64.0,
+      "BUFFER_SIZE": 4096,
+      "CENTROID_SEL_STRAT": "RANDOM",
+      "CLASSIC_LOOP_CLOSURE": false,
+      "GLOBAL_OPT_FREQ": 15,
+      "KEYFRAME_INDEX": 4,
+      "KEYFRAME_THRESH": 15.0,
+      "LOOP_CLOSE_WINDOW_SIZE": 3,
+      "LOOP_CLOSURE": false,
+      "LOOP_RETR_THRESH": 0.04,
+      "MAX_EDGE_AGE": 1000,
+      "MIXED_PRECISION": true,
+      "MOTION_DAMPING": 0.5,
+      "MOTION_MODEL": "DAMPED_LINEAR",
+      "OPTIMIZATION_WINDOW": 10,
+      "PATCHES_PER_FRAME": 96,
+      "PATCH_LIFETIME": 13,
+      "REMOVAL_WINDOW": 22
+    }
+  },
+  "environment": {
+    "python": "3.10.12",
+    "numpy": "1.26.4",
+    "opencv": "4.10.0",
+    "torch": "2.5.1",
+    "torch_cuda": "12.1",
+    "gpu": "NVIDIA RTX 6000 Ada Generation"
+  },
+  "clips": [
+    {
+      "key": "clip_037",
+      "split": "val",
+      "status": "predicted",
+      "n_poses": 2494,
+      "native_fps": 24.98878109240106,
+      "stride": 3,
+      "effective_fps": 8.32959369746702,
+      "elapsed_seconds": 69.919
+    }
+  ]
+}

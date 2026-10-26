@@ -4,7 +4,3 @@ __pycache__/
 runs/
 DPVO/
 *.pth
-videos/
-references/
-timing/
-release_manifest.json

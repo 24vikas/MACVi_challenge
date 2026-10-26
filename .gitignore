@@ -1,29 +1,12 @@
-# Datasets and media
+# Local datasets
 data/
 test_data/
-**/videos/
-**/*.mp4
-**/*.mov
-**/*.avi
-**/*.tar
-**/*.tar.gz
-**/*.zip
 
-# Generated experiment outputs and caches
-runs/
-reports/plots/
-reports/visual_samples/
-**/__pycache__/
-**/.cache/
-**/.pytest_cache/
-**/.ipynb_checkpoints/
-
-# Vendored dependencies
-third_party/
-
-# Local environments and editor files
+# Local environments and transient files
 .venv/
 venv/
-*.pyc
+**/__pycache__/
+**/.pytest_cache/
+**/.ipynb_checkpoints/
 *.swp
 .DS_Store
